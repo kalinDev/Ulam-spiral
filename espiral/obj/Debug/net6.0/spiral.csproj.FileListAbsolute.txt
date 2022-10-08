@@ -1,0 +1,15 @@
+C:\Users\nesca\source\repos\espiral\espiral\bin\Debug\net6.0\spiral.exe
+C:\Users\nesca\source\repos\espiral\espiral\bin\Debug\net6.0\spiral.deps.json
+C:\Users\nesca\source\repos\espiral\espiral\bin\Debug\net6.0\spiral.runtimeconfig.json
+C:\Users\nesca\source\repos\espiral\espiral\bin\Debug\net6.0\spiral.dll
+C:\Users\nesca\source\repos\espiral\espiral\bin\Debug\net6.0\spiral.pdb
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\spiral.csproj.AssemblyReference.cache
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\spiral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\spiral.AssemblyInfoInputs.cache
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\spiral.AssemblyInfo.cs
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\spiral.csproj.CoreCompileInputs.cache
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\spiral.dll
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\ref\spiral.dll
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\spiral.pdb
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\spiral.genruntimeconfig.cache
+C:\Users\nesca\source\repos\espiral\espiral\obj\Debug\net6.0\refint\spiral.dll
